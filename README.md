@@ -1,5 +1,5 @@
 > Translations of the basic learning modules are available in:
-> - [English](translations/EN_Readme.md)
+> - [English]([translations/EN_Readme.md](https://github.com/orcular-org/Basislernmodule-Fab-Labs/blob/bb2a67d3d2738899adf586a66dcdec32c2fc4c79/translations/EN_Readme.md))
 
 # Basislernmodule für Fab Labs
 Basislernmodule für verschiedene Themen rund um die Nutzung von Fab Labs - veröffentlicht als Open Educational Resources (OER).
